@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waelelewa01
+- 👋 Hi, I’m Wael Elewa
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web Development Projects
